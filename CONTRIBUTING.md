@@ -32,6 +32,14 @@
         </a>
     </td>
     ```
+    <td align="center">
+        <a href="https://github.com/pavan1419">
+            <img src="https://avatars.githubusercontent.com/u/46532314?v=4" width="100px;" alt="Pavan1419"/>
+            <br />
+            <sub><b>Pavan1419</b></sub>
+        </a>
+    </td>
+    
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
 
